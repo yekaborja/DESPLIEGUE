@@ -1,0 +1,22 @@
+.contenedor{
+    font-size: 2rem;
+    color: teal;
+    align-content: center;
+}
+
+body{
+    background: skyblue;
+    width: 680px;
+    height: 1024px;
+}
+
+.contenedor-1{
+    font-size: 1.2rem;
+    color: tomato;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    align-content: normal;
+}
+
+footer{
+    align-items: end;
+}
